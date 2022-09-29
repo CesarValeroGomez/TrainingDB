@@ -9,7 +9,7 @@ public class Principal {
 
     public static void main(String[] args)
     {
-       // crudCompany.getAllCompanies();
+       crudCompany.getAllCompanies();
        // crudCompany.findCompanyId(3);
        // crudCompany.findCompanyName("Exito");
        // crudCompany.insertCompany(8, "Carrefur", "5893242", "carrefur@gmail.com", "14 trash rd.");
